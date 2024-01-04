@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AksharaReddyPatlannagari
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Information Technology
+- 🌱 I’m currently pursuing Masters in Data Analytics Engineering at Northeastern University Boston
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 Reach me if you're interested in Machine learning
 
