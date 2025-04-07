@@ -1,9 +1,9 @@
-👋 Hi, I’m @AksharaReddyPatlannagari
-👀 Passionate about Machine Learning and Data Science
-🌱 Currently pursuing Masters in Data Analytics Engineering at Northeastern University Boston
-🔍 Actively seeking opportunities in Machine Learning and Data Science
-💼 Open to collaborate on exciting ML projects
-📫 Connect with me for job opportunities in Machine Learning!
+- 👋 Hi, I’m @AksharaReddyPatlannagari  
+- 👀 I’m interested in Machine Learning and Data Science  
+- 🌱 I’m currently pursuing a Master's in Data Analytics Engineering at Northeastern University, Boston  
+- 💼 Actively seeking full-time opportunities in Machine Learning and Data Science  
+- 🤝 I’m looking to collaborate on impactful ML projects  
+- 📫 Reach out if you're hiring or interested in collaborating!
 
 
 <!---
