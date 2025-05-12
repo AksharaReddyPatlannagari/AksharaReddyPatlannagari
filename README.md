@@ -1,7 +1,7 @@
 ## Hello World! This is Akshara Reddy Patlannagari 👋
 
 🔭 I’m currently working on: Projects related to LLMs  
-🌱 I’m currently learning: MLOps and Generative AI
+🌱 I’m currently learning: MLOps and Generative AI  
 👯 I’m looking to collaborate on: Machine Learning, NLP, and Scalable Data Science Projects  
 💬 Ask me about: Data Analytics, Machine Learning, NLP, and Data Engineering  
 📫 How to reach me: [Email](mailto:patlannagari.akshara@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aksharareddypatlannagari/)  
