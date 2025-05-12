@@ -46,14 +46,4 @@ Applied clustering algorithms to segment customers and provide actionable busine
 Developed predictive models and analytics to support climate action and sustainability goals as part of a Hackathon.
 
 
----
-
-## 📫 Connect with Me
-
-- [GitHub](https://github.com/AksharaReddyPatlannagari)  
-- [LinkedIn](https://www.linkedin.com/in/aksharareddypatlannagari/)  
-- 📧 Email: patlannagari.akshara@gmail.com
-
----
-
 > *Always learning. Always building. Open to collaborations and new opportunities in Data Science and Machine Learning!*
