@@ -44,6 +44,3 @@ Applied clustering algorithms to segment customers and provide actionable busine
 
 🔹 **SBSPS-Challenge-7154-SDG-13-Climate-Action**  
 Developed predictive models and analytics to support climate action and sustainability goals as part of a Hackathon.
-
-
-> *Always learning. Always building. Open to collaborations and new opportunities in Data Science and Machine Learning!*
