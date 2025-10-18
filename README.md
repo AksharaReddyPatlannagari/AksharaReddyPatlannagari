@@ -36,6 +36,9 @@ With hands-on experience in industry and academia, I specialize in:
 🔹 **RAG Chatbot for Research Computing**  
 End-to-end Retrieval-Augmented Generation chatbot using Azure and LLMs for Northeastern University’s Research Computing department.
 
+🔹 **NEU-SAC: Northeastern Student Assistance Chatbot**  
+Production-ready multi-agent RAG system using NVIDIA LLMs, Pinecone vector search, Snowflake data warehouse, and Apache Airflow pipelines for intelligent course planning and academic assistance.
+
 🔹 **Crime-data-analysis**  
 Exploratory data analysis and time series forecasting on crime data, revealing patterns, trends, and event impacts.
 
