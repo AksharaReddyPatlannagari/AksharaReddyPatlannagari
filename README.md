@@ -33,6 +33,9 @@ With hands-on experience in industry and academia, I specialize in:
 
 ## 📂 Featured Projects
 
+🔹 **LoRA-Select: Adaptive Task-Specific Text Generation with Dynamic LoRA Switching**  
+Dynamic Mixture-of-Experts framework using Low-Rank Adaptation for domain-specific LLM fine-tuning across legal, finance, and healthcare domains with zero-shot domain classification and parameter-efficient training.
+
 🔹 **RAG Chatbot for Research Computing**  
 End-to-end Retrieval-Augmented Generation chatbot using Azure and LLMs for Northeastern University’s Research Computing department.
 
