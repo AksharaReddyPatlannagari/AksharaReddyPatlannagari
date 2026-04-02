@@ -4,13 +4,12 @@
 🌱 I’m currently learning: MLOps and Generative AI  
 👯 I’m looking to collaborate on: Machine Learning, NLP, and Scalable Data Science Projects  
 💬 Ask me about: Data Analytics, Machine Learning, NLP, and Data Engineering  
-📫 How to reach me: [Email](mailto:patlannagari.akshara@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aksharareddypatlannagari/)  
+📫 How to reach me: [Email](mailto:aksharareddypatlannagari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aksharareddypatlannagari/)  
 
 ---
 
 🚀 **Welcome to My GitHub!**
 
-I recently graduated with a Master’s in Data Analytics Engineering at Northeastern University, I enjoy solving real-world problems through data and machine learning.
 
 With hands-on experience in industry and academia, I specialize in:
 
